@@ -68,7 +68,7 @@ Build it like this:
 
 ```bash
 chmod +x build-appimage.sh
-./build-appimage.sh --clean --version 0.1.0
+./build-appimage.sh --clean --version 1.0.0
 ```
 
 What the script does:
