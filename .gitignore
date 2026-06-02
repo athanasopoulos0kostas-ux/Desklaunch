@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+.build/
+dist/
+dist-appimage/
+*.AppImage
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+Text File.txt
+Καταγραφή.PNG

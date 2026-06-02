@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="DeskLaunch icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#10293f"/>
+      <stop offset="100%" stop-color="#214a70"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e90d2"/>
+      <stop offset="100%" stop-color="#52b7f9"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)"/>
+  <rect x="24" y="28" width="80" height="58" rx="12" fill="#f7fafc"/>
+  <rect x="24" y="28" width="80" height="14" rx="12" fill="#dce6ef"/>
+  <circle cx="36" cy="35" r="3" fill="#8aa3b7"/>
+  <circle cx="46" cy="35" r="3" fill="#8aa3b7"/>
+  <circle cx="56" cy="35" r="3" fill="#8aa3b7"/>
+  <path d="M42 60h26" stroke="#19364a" stroke-linecap="round" stroke-width="8"/>
+  <path d="M72 60l12 0" stroke="url(#accent)" stroke-linecap="round" stroke-width="8"/>
+  <path d="M76 54l14 6-14 6" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+  <path d="M36 96h56" stroke="#dce6ef" stroke-linecap="round" stroke-width="10"/>
+  <path d="M64 86v20" stroke="#dce6ef" stroke-linecap="round" stroke-width="10"/>
+</svg>
